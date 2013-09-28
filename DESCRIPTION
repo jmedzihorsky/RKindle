@@ -1,0 +1,12 @@
+Package: RKindle
+Type: Package 
+Title: RKindle: Kindle collection management using R
+Version: 0.2
+Date: 2013-09-28
+Author: Juraj Medzihorsky
+Maintainer: Juraj Medzihorsky <juraj.medzihorsky@gmail.com>
+Description: Kindle collection management
+License: GPL (>= 2)
+Depends: SoDA, rjson
+
+
